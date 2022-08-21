@@ -53,7 +53,7 @@
                 </executions>
 
                 <configuration>
-                    <mainClass>execution.TestRunner</mainClass>
+                    <mainClass>jenkins.execution.TestRunner.java</mainClass>
                     <classpathScope>test</classpathScope>
                 </configuration>
 
