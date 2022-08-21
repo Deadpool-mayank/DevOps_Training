@@ -56,7 +56,7 @@
 
                 <configuration>
                     <mainClass>execution.TestRunner</mainClass>
-                    <classpathScope>test</classpathScope>
+                    
                 </configuration>
 
             </plugin>
