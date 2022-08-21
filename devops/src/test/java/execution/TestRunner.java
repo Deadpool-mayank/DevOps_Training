@@ -11,5 +11,8 @@ public class TestRunner {
         if (!theDir.exists()){
             theDir.mkdirs();
         }
+new TestRunner().Hi();
     }
+
+    public void Hi() {System.out.println("Hello");}
 }
