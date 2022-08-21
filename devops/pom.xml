@@ -50,7 +50,7 @@
                 </executions>
 
                 <configuration>
-                    <mainClass>execution.TestRunner</mainClass>
+                    <mainClass>java.execution.TestRunner</mainClass>
                     <classpathScope>test</classpathScope>
                 </configuration>
 
